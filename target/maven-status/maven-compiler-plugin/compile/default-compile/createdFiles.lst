@@ -1,0 +1,5 @@
+com\connection\ConnectionFactory.class
+org\wso2\msf4j\example\Application.class
+org\wso2\msf4j\example\HelloService.class
+com\com\dao\BankDetailsDAO.class
+com\model\BankDetails.class
